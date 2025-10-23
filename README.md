@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 🚀 在线体验
-👉 **Demo**: [https://your-streamlit-link.com （部署后替换）](https://resume-job-matching-p6n6knucr95zasnnj4rappe.streamlit.app/)
+👉 **Demo**: [(https://resume-job-matching-p6n6knucr95zasnnj4rappe.streamlit.app/)]
 
 ## 📌 功能
 - 基于 **Sentence-BERT** 语义匹配，**非关键词**
