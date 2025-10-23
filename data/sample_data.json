@@ -1,0 +1,12 @@
+[
+  {
+    "resume": "Python, Machine Learning, TensorFlow, 3 years experience",
+    "job_description": "Looking for Python engineer with ML experience",
+    "label": 1
+  },
+  {
+    "resume": "Java, Spring Boot, 5 years backend",
+    "job_description": "Data scientist with NLP experience",
+    "label": 0
+  }
+]
