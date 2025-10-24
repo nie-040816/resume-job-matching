@@ -36,6 +36,6 @@ resume-job-matching/
 📄 许可证
 MIT © 2025 nie-040816
 ## 演示截图
-![Demo](demo.png)
+![Demo](https://raw.githubusercontent.com/nie-040816/resume-job-matching/master/demo.png)
 - **AUC**：85 %（自建测试集）
 - **Demo 示例相似度**：78.3 %
