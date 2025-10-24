@@ -36,4 +36,4 @@ resume-job-matching/
 📄 许可证
 MIT © 2025 nie-040816
 ## 演示截图
-![Demo](<demo.png" >)
+![Demo](demo.png)
